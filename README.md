@@ -1,4 +1,3 @@
-<div style="background-color: #6e6e6e; padding: 10px;">
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">Currently a Software Developer at Data Directions</h3>
 
@@ -38,4 +37,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roberttev&" alt="roberttev" /></p>
-</div>
