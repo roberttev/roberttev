@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">Currently a Software Developer at Data Directions</h3>
+<h1>Hi 👋, I'm Robert</h1>
+<h3>Currently a Software Developer at Data Directions</h3>
 
 - 👨‍💻 My biggest project is available at [https://teverovskyi.info/](https://teverovskyi.info/)
 
