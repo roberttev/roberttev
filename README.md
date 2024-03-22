@@ -1,5 +1,5 @@
 # Hi 👋, I'm Robert
-## Currently a Software Development Intern at Data Directions
+## Currently a Software Engineer
 
 - 👨‍💻 My biggest project is available at [https://teverovskyi.info/](https://teverovskyi.info/)
 
